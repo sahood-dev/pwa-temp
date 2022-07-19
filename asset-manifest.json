@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pwa-temp3/static/css/main.17464a0d.css",
-    "main.js": "/pwa-temp3/static/js/main.57ba80b0.js",
-    "static/js/787.926ca047.chunk.js": "/pwa-temp3/static/js/787.926ca047.chunk.js",
-    "service-worker.js": "/pwa-temp3/service-worker.js",
-    "index.html": "/pwa-temp3/index.html",
-    "main.17464a0d.css.map": "/pwa-temp3/static/css/main.17464a0d.css.map",
-    "main.57ba80b0.js.map": "/pwa-temp3/static/js/main.57ba80b0.js.map",
-    "787.926ca047.chunk.js.map": "/pwa-temp3/static/js/787.926ca047.chunk.js.map"
+    "main.css": "/pwa-temp/static/css/main.17464a0d.css",
+    "main.js": "/pwa-temp/static/js/main.ab0ddc61.js",
+    "static/js/787.c8b171dd.chunk.js": "/pwa-temp/static/js/787.c8b171dd.chunk.js",
+    "service-worker.js": "/pwa-temp/service-worker.js",
+    "index.html": "/pwa-temp/index.html",
+    "main.17464a0d.css.map": "/pwa-temp/static/css/main.17464a0d.css.map",
+    "main.ab0ddc61.js.map": "/pwa-temp/static/js/main.ab0ddc61.js.map",
+    "787.c8b171dd.chunk.js.map": "/pwa-temp/static/js/787.c8b171dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17464a0d.css",
-    "static/js/main.57ba80b0.js"
+    "static/js/main.ab0ddc61.js"
   ]
 }
