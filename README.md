@@ -1,3 +1,3 @@
 # pwa-temp
 
-Have a look: https://sahoodcode.github.io/pwa-temp/
+Have a look: https://sahood-dev.github.io/pwa-temp/
